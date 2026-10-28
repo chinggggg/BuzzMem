@@ -1,4 +1,6 @@
-# BuzzMem
+# BuzzMem：記憶體小幫手
+
+**BuzzMem: Memory Helper**
 
 住在 Mac 選單列的記憶體小幫手。一個數字告訴你記憶體夠不夠用，一句白話告訴你該怎麼做。
 
